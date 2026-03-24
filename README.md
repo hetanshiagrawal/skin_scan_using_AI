@@ -1,4 +1,4 @@
-# SkinScanAI - Identify the affected skin region and predict the type of skin cancer based on the lesion.
+# Skin_Scan_using_AI - Identify the affected skin region and predict the type of skin cancer based on the lesion.
 
 The described project aims to address the challenges faced by dermatologists in locating cancerous and malignant skin lesions accurately and predicting skin lesion type. The proposed solution involves a neural architecture based on convolutional neural networks (CNNs) to extract essential features from skin lesions and generate precise masks that define the lesion area. The key components and outcomes of the project include:
 
